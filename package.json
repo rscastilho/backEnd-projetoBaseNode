@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "name": "projetobasenode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscastilho/backEnd-projetoBaseNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rscastilho/backEnd-projetoBaseNode/issues"
+  },
+  "homepage": "https://github.com/rscastilho/backEnd-projetoBaseNode#readme",
+  "description": ""
+}

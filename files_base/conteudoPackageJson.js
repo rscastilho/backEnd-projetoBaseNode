@@ -1,4 +1,4 @@
-exports.conteudoPackage = `
+export const conteudoPackageJson = `
 {
     "name": "backend",
     "version": "1.0.0",

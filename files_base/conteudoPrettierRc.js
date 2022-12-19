@@ -1,4 +1,4 @@
-exports.conteudoPrettierRc = `
+export const conteudoPrettierRc = `
 {
     "semi": true,
     "trailingComma": "all",

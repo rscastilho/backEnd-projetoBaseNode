@@ -1,4 +1,4 @@
-exports.conteudoGitIgnore = `
+export const conteudoGitIgnore = `
 /node_modules
 node_modules
 .env

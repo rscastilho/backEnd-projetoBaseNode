@@ -1,4 +1,4 @@
-exports.conteudoPackageLock = `
+export const conteudoPackageLock = `
 {
     "name": "backend",
     "version": "1.0.0",

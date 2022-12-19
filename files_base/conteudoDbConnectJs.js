@@ -1,4 +1,4 @@
-exports.conteudoDbConnectJs = `
+export const conteudoDbConnectJs = `
 const mySql = require('mysql2');
 
 const pool = mySql.createPool({

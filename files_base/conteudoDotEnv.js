@@ -1,4 +1,4 @@
-exports.conteudoDotEnv =
+export const conteudoDotEnv =
     `
     PORT=5000
     HOST=xxx
