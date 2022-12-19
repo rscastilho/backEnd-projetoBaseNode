@@ -1,6 +1,6 @@
 Robo para criação de projetos backEnd NodeJs
 
--   basta rodar o comando npm start escolher o local e informar o nome do projeto; e o diretório será criada automaticamente;
+-   basta rodar o comando npm start escolher o local e informar o nome do projeto; e o diretório será criado automaticamente;
 
 -   apos a crição da base, basta rodar o npm instali ou npm i para instalar todas as bibliotecas e referencias do projeto.
 
