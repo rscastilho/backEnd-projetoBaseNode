@@ -1,21 +1,20 @@
-Robo para criação de projetos backEnd NodeJs
+Robo para criação de projetos backEnd NodeJs e Express. Utilizando a biblioteca inquirer.
 
--   basta rodar o comando npm start escolher o local e informar o nome do projeto; e o diretório será criado automaticamente;
+Aplicativo JS rodando em terminal.
+-   Basta rodar o comando npm install para instalar todas as dependencias do projeto;
+-   Rodar node index.js, escolher o disco e o nome do projeto;
+-   Pronto! Seu projeto backend esta criado e pre configurado:
+    com express;
+    conexão com mySql;
+    estrutura de pastas;
+    variaveis de ambiente;
+    CORS;
+    Nodemon;
+    express-validator.
+    
+    
+    Obs.: Este projeto esta em constante atualização.
 
--   apos a crição da base, basta rodar o npm instali ou npm i para instalar todas as bibliotecas e referencias do projeto.
 
-"devDependencies":
-{
-"prettier": "^2.8.1"
 
-    },
 
-     "dependencies": {
-      "cors": "^2.8.5",
-      "dotenv": "^16.0.1",
-      "express": "^4.18.1",
-      "express-validator": "^6.14.2",
-      "mysql2": "^2.3.3",
-      "nodemon": "^2.0.19"
-
-    }
